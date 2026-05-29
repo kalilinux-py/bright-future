@@ -1,0 +1,6 @@
+{
+  "name": "Bright Future Public School",
+  "description": "Premium modern responsive website for Bright Future Public School, Lucknow. Affiliated with CBSE, featuring academic programs, state-of-the-art facilities, admission inquiry form, and school life gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
